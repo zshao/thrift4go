@@ -32,7 +32,7 @@ Get the master branch for thrift4go:
 
 Get the thrift-0.9.0.tar.gz and extract it:
 
-``wget -c https://dist.apache.org/repos/dist/release/thrift/0.9.0/thrift-0.9.0.tar.gz``
+``wget -c https://archive.apache.org/dist/thrift/0.9.0/thrift-0.9.0.tar.gz``
 
 ``tar xzvf thrift-0.9.0.tar.gz``
 
